@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-billogram",
+  "version": "0.1.0",
+  "description": "Billogram ESLint configurations",
+  "main": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billogram/eslint-config-billogram"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT"
+}
