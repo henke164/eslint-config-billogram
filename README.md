@@ -2,9 +2,15 @@
 
 > Billogram ESLint configurations
 
+[![npm version](https://img.shields.io/npm/v/eslint-config-billogram.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-billogram)
+
 ## Install
 
-TODO
+To install the stable version:
+
+```
+npm install --save eslint-config-billogram
+```
 
 ## Usage
 
