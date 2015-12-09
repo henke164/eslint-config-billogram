@@ -26,6 +26,7 @@ module.exports = {
         'no-console': 1,
         'no-multi-spaces': 1,
         'no-trailing-spaces': 1,
+        'no-unused-vars': 1,
         'no-var': 2,
         'object-curly-spacing': [1, 'always'],
         'prefer-spread': 1,
