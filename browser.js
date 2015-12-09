@@ -14,6 +14,7 @@ module.exports = {
         'arrow-spacing': 1,
         'brace-style': [1, '1tbs', { 'allowSingleLine': true }],
         'camelcase': 1,
+        'comma-dangle': 1,
         'comma-spacing': [1, { 'before': false, 'after': true }],
         'comma-style': [1, 'last'],
         'computed-property-spacing': 1,
