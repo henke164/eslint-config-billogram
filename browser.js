@@ -33,7 +33,6 @@ module.exports = {
         'prefer-spread': 1,
         'quotes': [2, 'single'],
         'semi': [2, 'always'],
-        'space-after-keywords': 1,
         'space-before-blocks': 1
     }
 
