@@ -1,8 +1,7 @@
 module.exports = {
-
-    'parser': 'babel-eslint',
-    'ecmaFeatures': {
-        'modules': true
+    'parserOptions': {
+        "ecmaVersion": 6,
+        "sourceType": "module"
     },
     'env': {
         'browser': true,
@@ -35,5 +34,4 @@ module.exports = {
         'semi': [2, 'always'],
         'space-before-blocks': 1
     }
-
 };

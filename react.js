@@ -1,10 +1,11 @@
 module.exports = {
-
     'plugins': [
         'react'
     ],
-    'ecmaFeatures': {
-        'jsx': true
+    'parserOptions': {
+        'ecmaFeatures': {
+            'jsx': true
+        }
     },
     'rules': {
         'jsx-quotes': 1,
