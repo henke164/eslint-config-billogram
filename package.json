@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-billogram",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Billogram's ESLint configurations",
   "main": "browser.js",
   "repository": "billogram/eslint-config-billogram",
